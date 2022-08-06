@@ -30,14 +30,10 @@
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_production_resource_group_location"></a> [production\_resource\_group\_location](#input\_production\_resource\_group\_location) | the loca
-tion of all the resources | `string` | n/a | yes |
-| <a name="input_production_resource_group_name"></a> [production\_resource\_group\_name](#input\_production\_resource\_group\_name) | The Name of the Reso
-urce Group | `string` | n/a | yes |
-| <a name="input_staging_resource_group_location"></a> [staging\_resource\_group\_location](#input\_staging\_resource\_group\_location) | the location of a
-ll the resources | `string` | n/a | yes |
-| <a name="input_staging_resource_group_name"></a> [staging\_resource\_group\_name](#input\_staging\_resource\_group\_name) | The Name of the Resource Grou
-p | `string` | n/a | yes |
+| <a name="input_production_resource_group_location"></a> [production\_resource\_group\_location](#input\_production\_resource\_group\_location) | the location of all the resources | `string` | n/a | yes |
+| <a name="input_production_resource_group_name"></a> [production\_resource\_group\_name](#input\_production\_resource\_group\_name) | The Name of the Resource Group | `string` | n/a | yes |
+| <a name="input_staging_resource_group_location"></a> [staging\_resource\_group\_location](#input\_staging\_resource\_group\_location) | the location of all the resources | `string` | n/a | yes |
+| <a name="input_staging_resource_group_name"></a> [staging\_resource\_group\_name](#input\_staging\_resource\_group\_name) | The Name of the Resource Group | `string` | n/a | yes |
 
 ## Outputs
 
